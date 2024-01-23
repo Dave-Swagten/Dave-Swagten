@@ -17,9 +17,9 @@
 
 <br><br>
 
-- :school: I am a `Software Development Student` at [Vista College](https://vistacollege.nl/opleiding/applicatie-en-media-ontwikkelaar).
+- :school: I am a `Software Development Student` at [Fontys University](https://www.fontys.nl/en/Study-at-Fontys/Programmes/Information-Communication-Technology-Eindhoven.htm).
 - :technologist: I love implementing Software as a solution for every `Problem`.
-- :student: I’m interested in `AI`, `VR` & `AR`.
+- :student: I’m interested in `AI`, `Web Development` & `Innovative Tech`.
 - :nerd_face: Always `learning new things`.
 - :boom: You can visit [My Website](https://daveswagten.nl).
 <br>
@@ -41,21 +41,17 @@
 
 <p align="center"> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  <a href="https://www.w3schools.com/php/" target="_blank"> 
+    <img alt="PHP" src="https://img.shields.io/badge/php%20-777BB4.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
    &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="https://www.w3schools.com/cs/" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/C%23-%2300599C.svg?style=plastic&logo=csharp&logoColor=white">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
@@ -73,8 +69,6 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
