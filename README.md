@@ -9,7 +9,7 @@
 	<img src="https://komarev.com/ghpvc/?username=Dave-Swagten&label=Profile%20views&color=0047AB&style=plastic?" alt="Dave-Swagten" height=25px, width=160px/> 
 </p>
 
-## <picture><img src = "https://github.com/Dave-Swagten/Dave-Swagten/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture><img src = "https://github.com/Dave-Swagten/Dave-Swagten/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/Dave-Swagten/Dave-Swagten/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
