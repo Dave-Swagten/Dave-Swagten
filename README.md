@@ -20,7 +20,7 @@
 - :technologist: I love implementing Software as a solution for every `Problem`.
 - :student: I’m interested in `AI`, `Web Development` & `Innovative Tech`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://tinyurl.com/4st2wr32).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://tinyurl.com/4naea5yc).
 - :boom: You can visit [My Website](https://daveswagten.nl).
   <br>
 
