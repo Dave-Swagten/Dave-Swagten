@@ -15,13 +15,13 @@
 
 <br><br>
 
-- :school: I am a `Software Development Student` at [Fontys University](https://www.fontys.nl/en/Study-at-Fontys/Programmes/Information-Communication-Technology-Eindhoven.htm).
-- :trophy: I have a Professional Scrum Master I [Certificate](http://tinyurl.com/4tw6jadx).
-- :technologist: I love implementing Software as a solution for every `Problem`.
-- :student: I’m interested in `AI`, `Web Development` & `Innovative Tech`.
+- :office: I am a `Backend Developer` who loves building systems that work, and work well.
+- :trophy: Proud holder of a [Professional Scrum Master I Certificate](http://tinyurl.com/4tw6jadx).
+- :technologist: I enjoy solving real-world problems through `code`, making things simpler and more efficient.
+- :student: Passionate about `Web Development` and exploring `Innovative Tech` that makes life easier.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://tinyurl.com/daveswagten-cv).
-- :boom: You can visit [My Website](https://daveswagten.nl).
+- :thinking: Curious? Check out [My Resume](https://tinyurl.com/daveswagten-cv).
+- :boom: Dive deeper into my world at [My Website](https://daveswagten.nl).
   <br>
 
 ## <picture> <img src="https://github.com/Dave-Swagten/Dave-Swagten/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
