@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Dave Swagten <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer;Software+Engineer;Exploring+Cutting-Edge+Tech;Always+Learning+New+Things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+Developer;Software+Engineer;Exploring+Cutting-Edge+Tech;Always+Learning+New+Things"></a>
 </p>
 
 <br>
@@ -15,19 +15,19 @@
 
 <br><br>
 
-- :office: I am a `Backend Developer` who loves building systems that work, and work well.
+- :office: I am a `Fullstack Developer` who loves building systems that work, and work well.
 - :trophy: Proud holder of a [Professional Scrum Master I Certificate](http://tinyurl.com/4tw6jadx).
 - :technologist: I enjoy solving real-world problems through `code`, making things simpler and more efficient.
 - :student: Passionate about `Web Development` and exploring `Innovative Tech` that makes life easier.
 - :nerd_face: Always `learning new things`.
-- :thinking: Curious? Check out [My Resume](https://tinyurl.com/daveswagten-cv).
+- :thinking: Curious? Check out [My Resume](https://drive.google.com/file/d/1Do_ye5-cfB4bcXQ4uP5_fAuMHmCcpc_q/view?usp=sharing).
 - :boom: Dive deeper into my world at [My Website](https://daveswagten.nl).
   <br>
 
 ## <picture> <img src="https://github.com/Dave-Swagten/Dave-Swagten/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
 <p align="center">
-	<a href="mailto:davieplier@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:daveswagten@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Dave-Swagten"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/dave-swagten"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/DaveSwagten01"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
